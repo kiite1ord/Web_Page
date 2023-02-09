@@ -59,11 +59,11 @@ header .inner #gnb {
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
+	color: black;
 }
 
 header .inner #gnb li {
 	float: left;
-	color: #000;
 }
 
 header .inner #gnb li a {
