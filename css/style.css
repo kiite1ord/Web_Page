@@ -63,6 +63,7 @@ header .inner #gnb {
 
 header .inner #gnb li {
 	float: left;
+	color: #000;
 }
 
 header .inner #gnb li a {
