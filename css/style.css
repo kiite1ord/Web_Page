@@ -70,6 +70,7 @@ header .inner #gnb li a {
 	font: bold 15px/1 "arial";
 	padding: 20px 40px;
 	transition: all 0.5s;
+	color: #444;
 }
 
 header .inner #gnb li a:hover {
